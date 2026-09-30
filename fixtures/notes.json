@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Groceries",
+    "body": "milk, eggs, bread",
+    "created_at": "2026-09-01T08:30:00+00:00"
+  },
+  {
+    "id": 2,
+    "title": "Review tool demo",
+    "body": "pair of repos for testing cross-repo review",
+    "created_at": "2026-09-15T12:00:00+00:00"
+  },
+  {
+    "id": 3,
+    "title": "Ideas",
+    "body": "write about schema drift",
+    "created_at": "2026-09-28T18:45:00+00:00"
+  }
+]
